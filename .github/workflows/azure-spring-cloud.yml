@@ -1,4 +1,4 @@
-name: Build and deploy to Azure Spring Apps
+name: Build and deploy to Azure Spring Appss
 
 on: [push]
 
